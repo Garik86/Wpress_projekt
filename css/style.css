@@ -1,0 +1,46 @@
+@font-face{
+  font-family: 'HelveticaNeueLTProLt';
+  src:  url('../fonts/HelveticaNeueLTProLt.otf');
+}
+@font-face{
+  font-family: 'HelveticaNeueLTProMd';
+  src:  url('../fonts/HelveticaNeueLTProMd.otf');
+}
+@font-face{
+  font-family: 'HelveticaNeueLTProRoman';
+  src:  url('../fonts/HelveticaNeueLTProRoman.otf');
+}
+@font-face{
+  font-family: 'Merriweather-LightItalic';
+  src:  url('../fonts/Merriweather-LightItalic.ttf');
+}
+@font-face{
+  font-family: 'Montserrat-Light';
+  src:  url('../fonts/Montserrat-Light.ttf');
+}
+@font-face{
+  font-family: 'Montserrat-Regular';
+  src:  url('../fonts/Montserrat-Regular.ttf');
+}
+@font-face{
+  font-family: 'Roboto-Regular';
+  src:  url('../fonts/Roboto-Regular.ttf');
+}
+.nav-link{
+  font-size: 16px;
+  font-family:'HelveticaNeueLTProMd';
+}
+.btn, .form-control{
+  font-family:'HelveticaNeueLTProMd';
+}
+.card-title{
+  font-family: 'Helvetica Neue Pro - Lt';
+  font-size: 44px;
+  text-align: center;
+}
+.card-text{
+  font-family: Merriweather;
+  font-size: 16px;
+  color: #898888;
+  text-align: center;
+}
