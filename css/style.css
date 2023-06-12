@@ -55,3 +55,6 @@
   font-family: 'Helvetica Neue Pro';
   font-size: clamp(1.5rem, 0.273rem + 3.64vw, 3rem);
 }
+.bi{
+  color: #898888;
+}
