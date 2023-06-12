@@ -43,6 +43,7 @@
   font-size: clamp(0.625rem, 0.489rem + 0.68vw, 1rem);
   color: #898888;
   text-align: center;
+  color: rgb(58, 95, 102)
 }
 .card{
   height: 300px;
