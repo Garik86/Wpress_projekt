@@ -60,7 +60,13 @@
 .bi{
   color: #898888;
 }
-.pt-5 .pt-1 .pt-2{
+.pt-5{
+  text-align: center;
+}
+.pt-1{
+  text-align: center;
+}
+.pt-2{
   text-align: center;
 }
 
