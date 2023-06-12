@@ -47,7 +47,6 @@
 }
 .card{
   height: 300px;
-  margin-bottom: 10px;
 }
 .text_item{
   font-family: Montserrat;
@@ -60,13 +59,7 @@
 .bi{
   color: #898888;
 }
-.pt-5{
-  text-align: center;
-}
-.pt-1{
-  text-align: center;
-}
-.pt-2{
+.card-title{
   text-align: center;
 }
 
